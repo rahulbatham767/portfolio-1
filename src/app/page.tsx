@@ -60,7 +60,7 @@ export default function Page() {
             >
               <ResumeCard
                 key={work.company}
-                logoUrl={work?.logoUrl}
+                logoUrl={work.logoUrl}
                 altText={work.company}
                 title={work.company}
                 subtitle={work.title}
@@ -143,7 +143,7 @@ export default function Page() {
                   dates={project.dates}
                   tags={project.technologies}
                   image={project.image}
-                  video={project.video}
+                  // video={project.video}
                   links={project.links}
                 />
               </BlurFade>

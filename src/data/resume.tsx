@@ -80,7 +80,7 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "Full Stack Developer",
-      // logoUrl: "/atomic.png",
+      logoUrl: " ",
       start: "September 2023",
       end: "November 2023",
       description:
@@ -148,7 +148,7 @@ export const DATA = {
     {
       title: "iNotebook",
       href: "https://inotebook-frontend-three.vercel.app/",
-      // dates: "June 2023 - Present",
+      dates: "January 2023 - February 2023",
       active: true,
       description:
         "Developed a user-friendly note-taking tool with a focus on simplicity for easy organization and quick access to notes.Implemented a secure and intuitive user authentication system, including registration, login, and password reset via email verification.",
@@ -161,13 +161,11 @@ export const DATA = {
         },
       ],
       image: "/iNotebook.png",
-      // video:
-      //   "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
     },
     {
       title: "TextUtils",
       href: "https://rahulbatham767.github.io/TextUtils/",
-      // dates: "April 2023 - September 2023",
+      dates: "February 2023 - March 2023",
       active: true,
       description:
         "Developed a website with the primary functionalities of calculating typing speed and reading content aloud. Integrated functionality to measure and display typing speed based on user input. Implemented a feature to convert text content into speech, enhancing accessibility and usability.",
